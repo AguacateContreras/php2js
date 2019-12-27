@@ -1,2 +1,3 @@
-# hyper-js-preprocessor
+# php2js
+
 JS shortcuts on PHP
